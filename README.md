@@ -9,8 +9,6 @@
 
 * How to reach me **leonardodsf2002@hotmail.com**
 
-* Metal enthusiast
-
 ## Languages and Tools
 
 <p align="left"> 

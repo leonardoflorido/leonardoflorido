@@ -1,15 +1,15 @@
 <h1 align="center">Leonardo Flórido</h1>
 <h3 align="center">Software Engineering student at Universidade de Aveiro.</h3>
 
-## 👨🏻‍💻 About Me
+## About Me
 
-- 🌱 I’m currently learning **Linux**
+* I’m currently learning **Linux**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+* I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **leonardodsf2002@hotmail.com**
+* How to reach me **leonardodsf2002@hotmail.com**
 
-## 🚀 Languages and Tools
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
@@ -19,7 +19,7 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leonardo Flórido's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-dsf&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
@@ -36,7 +36,7 @@
   <img alt="Leonardo Flórido's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leo-dsf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
 
-## Connect with me
+## Connect With Me
 <p align="left">
 <a href = "https://twitter.com/leonardo_dsf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/leonardodsf/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Flórido</h1>
-<h2 align="center">Software Engineering student at Universidade de Aveiro.</h2>
+<h3 align="center">Software Engineering student at Universidade de Aveiro.</h3>
 
 ## About Me
 

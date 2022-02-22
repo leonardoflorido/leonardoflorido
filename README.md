@@ -16,6 +16,7 @@
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a> 
     <a href="https://www.mathworks.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" width="48" height="48"/></a> 
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
 </p>
 
 ## 📊 My Github Stats

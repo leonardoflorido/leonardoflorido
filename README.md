@@ -54,9 +54,6 @@
 
 <a href="https://github.com/leo-dsf/github-readme-activity-graph"><img alt="Leonardo Flórido's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leo-dsf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 <a href = "https://twitter.com/leonardo_dsf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>

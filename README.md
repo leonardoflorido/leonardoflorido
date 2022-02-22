@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Flórido</h1>
 <h3 align="center">Software Engineering student at Universidade de Aveiro.</h3>
 
-## 🙋‍♂️ About Me
+## <img src="https://img.icons8.com/color/48/000000/businessman.png"/>About Me
 
 - 🌱 I’m currently learning **Linux**
 

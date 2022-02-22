@@ -60,5 +60,5 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://twitter.com/leonardo_dsf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/leonardodsf/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/leonardodsf/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>

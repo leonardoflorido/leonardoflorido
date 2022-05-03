@@ -7,7 +7,7 @@
 
 * I’m looking to collaborate on **OpenSource Projects**
 
-* How to reach me **leonardo-dsf@outlook.com**
+* How to reach me **leonardo.s.florido@outlook.com**
 
 ## Languages and Tools
 

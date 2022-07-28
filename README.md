@@ -15,7 +15,8 @@
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/metro/26/000000/sql.png" alt="SQL" width="48" height="48"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src= "![image](https://user-images.githubusercontent.com/95412398/181486592-d2dc09ac-f3a6-4a76-a7ba-b99917170020.png)
+" alt="SQL" width="48" height="48"/></a>
     <a href="https://www.mathworks.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" width="48" height="48"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>

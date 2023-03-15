@@ -20,6 +20,7 @@
     <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/null/angularjs.png" alt="Angular" width="48" height="48"/></a>
     <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
+    <a href="https://www.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/docker.png" alt="Docker" width="48" height="48"/></a>
 </p>
 
 ## My Github Stats

@@ -15,6 +15,7 @@
     <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" alt="TypeScript" width="48" height="48"/></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="48" height="48"/></a>
+    <a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/null/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL" width="48" height="48"/></a>
     <a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/null/redis.png" alt="Redis" width="48" height="48"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/color/48/null/django.png" alt="Django" width="48" height="48"/></a>
     <a href="https://spring.io" target="_blank"><img src="https://img.icons8.com/color/48/null/spring-logo.png" alt="Spring Boot" width="48" height="48"/></a>

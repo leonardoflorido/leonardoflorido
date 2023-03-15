@@ -35,7 +35,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
-  <img alt="Leonardo Flórido's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leo-dsf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+  <img alt="Leonardo Flórido's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=leo-dsf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
 
 ## Connect with Me

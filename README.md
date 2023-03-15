@@ -10,11 +10,12 @@
 ## Languages and Tools
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
     <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="48" height="48"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/color/48/null/django.png" alt="Django" width="48" height="48"/></a>
+    <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/null/spring-logo.png" alt="Spring Boot" width="48" height="48"/></a>
     <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/null/angularjs.png" alt="Angular" width="48" height="48"/></a>
     <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>

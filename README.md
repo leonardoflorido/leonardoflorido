@@ -3,11 +3,9 @@
 
 ## About Me
 
-* I’m currently learning **Linux**
-
-* I’m looking to collaborate on **OpenSource Projects**
-
-* How to reach me **leonardo.s.florido@outlook.com**
+- I’m currently learning **Linux**
+- I’m looking to collaborate on **OpenSource Projects**
+- How to reach me **leonardo.s.florido@outlook.com**
 
 ## Languages and Tools
 
@@ -41,6 +39,5 @@
 ## Connect with Me
 
 <p align="left">
-<a href = "https://twitter.com/leonardo_dsf"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/leonardodsf/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-sf/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
 </p>

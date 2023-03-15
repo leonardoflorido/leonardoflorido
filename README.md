@@ -2,13 +2,11 @@
 <h3 align="center">Taking a Bachelor of Science in Software Engineering at <a href="https://www.ua.pt">Universidade de Aveiro</a></h3>
 
 ## About Me
-
-- I'm currently learning **Linux**
-- I'm looking to collaborate on **OpenSource Projects**
+- I am currently learning **Linux**
+- I am looking to collaborate on **OpenSource Projects**
 - How to reach me **leonardo.s.florido@outlook.com**
 
 ## Languages and Tools
-
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
@@ -25,7 +23,6 @@
 </p>
 
 ## My Github Stats
-
 <p align="center">
   <img alt="Leonardo Flórido's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-dsf&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
 </p>
@@ -42,7 +39,6 @@
 </p>
 
 ## Connect with Me
-
 <p align="left">
 <a href = "https://www.linkedin.com/in/leonardo-sf"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </p>

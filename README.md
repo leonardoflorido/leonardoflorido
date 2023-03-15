@@ -13,7 +13,7 @@
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
     <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
-    <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img src= "https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="48" height="48"/></a>
+    <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="48" height="48"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/color/48/null/django.png" alt="Django" width="48" height="48"/></a>
     <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/null/angularjs.png" alt="Angular" width="48" height="48"/></a>
     <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
@@ -23,7 +23,7 @@
 ## My Github Stats
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leonardo Flórido's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-dsf&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
+  <img alt="Leonardo Flórido's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-dsf&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
 </p>
 
 <div align="center">
@@ -40,5 +40,5 @@
 ## Connect with Me
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/leonardo-sf/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-sf"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </p>

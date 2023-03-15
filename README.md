@@ -15,6 +15,7 @@
     <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
     <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img src= "https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="48" height="48"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/color/48/null/django.png" alt="Django" width="48" height="48"/></a>
+    <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/null/angularjs.png" alt="Angular" width="48" height="48"/></a>
     <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="48" height="48"/></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
 </p>

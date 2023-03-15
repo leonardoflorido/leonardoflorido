@@ -3,8 +3,8 @@
 
 ## About Me
 
-- I’m currently learning **Linux**
-- I’m looking to collaborate on **OpenSource Projects**
+- I'm currently learning **Linux**
+- I'm looking to collaborate on **OpenSource Projects**
 - How to reach me **leonardo.s.florido@outlook.com**
 
 ## Languages and Tools

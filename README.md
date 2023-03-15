@@ -39,5 +39,5 @@
 ## Connect with Me
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/leonardo-sf/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-sf/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </p>

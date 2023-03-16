@@ -2,7 +2,7 @@
 <h3 align="center">Taking a Bachelor of Science in Software Engineering at <a href="https://www.ua.pt">Universidade de Aveiro</a></h3>
 
 ## About Me
-- I am currently learning **Linux**
+- I am currently learning **C++**
 - I am looking to collaborate on **OpenSource Projects**
 - How to reach me **leonardo.s.florido@outlook.com**
 

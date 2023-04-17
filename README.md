@@ -41,5 +41,5 @@
 
 ## Connect with Me
 <p align="left">
-<a href = "https://www.linkedin.com/in/leonardo-sf"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardoflorido"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </p>

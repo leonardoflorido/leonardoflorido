@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Flórido</h1>
-<h3 align="center">Taking a Bachelor of Science in Software Engineering at <a href="https://www.ua.pt">Universidade de Aveiro</a></h3>
+<h3 align="center">Taking a Bachelor of Science in Software Engineering at <a href="https://www.ua.pt">University of Aveiro</a></h3>
 
 ## About Me
 - I am currently learning **C++**

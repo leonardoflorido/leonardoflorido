@@ -36,7 +36,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
 <p align="center">
-  <img alt="Leonardo Flórido's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoflorido&theme=react-dark"/>
+  <img alt="Leonardo Flórido's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoflorido&theme=react-dark&hide_border=true"/>
 </p>
 
 ## Connect with Me

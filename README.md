@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Flórido</h1>
-<h3 align="center">Software Engineering/Computer Science</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## About Me
 - I am currently learning **C++**

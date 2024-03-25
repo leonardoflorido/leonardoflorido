@@ -4,7 +4,7 @@
 ## About Me
 - I am currently learning **C++**
 - I am looking to collaborate on **Open Source Projects**
-- How to reach me **leonardoflorido@icloud.com**
+- How to reach me **leonardoflorido@proton.me**
 
 ## Languages and Tools
 <p align="left"> 

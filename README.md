@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 ## About Me
-- I am currently learning **C++**
-- I am looking to collaborate on **Open Source Projects**
+- I am currently learning **AI**
 - How to reach me **leonardoflorido@proton.me**
 
 ## Languages and Tools

@@ -1,4 +1,4 @@
-<h1 align="center">Leonardo Flórido</h1>
+<h1 align="center">Leonardo</h1>
 <h3 align="center">Software Engineer</h3>
 
 ## About Me

@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 ## About Me
-- I am currently learning **AI**
+- I am currently pursuing a **master's degree**
 - How to reach me **leonardoflorido@proton.me**
 
 ## Languages and Tools

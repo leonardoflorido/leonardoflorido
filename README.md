@@ -3,7 +3,6 @@
 
 ## About Me
 - I am currently pursuing a **master's degree**
-- How to reach me **leonardoflorido@proton.me**
 
 ## Languages and Tools
 <p align="left"> 
